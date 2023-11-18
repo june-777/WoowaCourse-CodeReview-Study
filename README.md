@@ -12,8 +12,9 @@ README.md는 모두 자유롭게 수정해주세요.
 미션 다음날까지 피어 리뷰를 진행하면 더욱 따끈따끈한 리뷰가 될 것 같습니다 :)
 
 **11월 21일 미션:** [자동차경주](https://github.com/woowacourse-precourse/java-racingcar-6)  
-(예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
-
+`[이름](url)`  
+...  
+(예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)  
 
 
 <br> </br>
@@ -49,6 +50,13 @@ README.md는 모두 자유롭게 수정해주세요.
 <br> </br>
 **12월 12일 미션:** [점심 메뉴 추천](https://github.com/hafnium1923/javascript-menu/tree/hafnium1923)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
+
+
+
+<br> </br>
+**12월 14일 미션:** [크리스마스 프로모션](https://github.com/woowacourse-precourse/java-christmas-6)  
+(예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
+
 
 
 

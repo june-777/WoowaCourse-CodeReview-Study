@@ -42,13 +42,13 @@ README.md는 모두 자유롭게 수정해주세요.
 
 
 <br> </br>
-**12월 7일 미션:** [페어 매칭](https://github.com/tco0427/java-pairmatching-precourse/tree/tco0427)  
+**12월 7일 미션:** [페어 매칭](https://github.com/woowacourse/java-pairmatching-precourse)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
 
 
 
 <br> </br>
-**12월 12일 미션:** [점심 메뉴 추천](https://github.com/hafnium1923/javascript-menu/tree/hafnium1923)  
+**12월 12일 미션:** [점심 메뉴 추천](https://github.com/70825/java-menu)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
 
 

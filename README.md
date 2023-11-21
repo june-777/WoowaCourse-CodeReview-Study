@@ -14,7 +14,7 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 **11월 21일 미션:** [자동차경주](https://github.com/woowacourse-precourse/java-racingcar-6)  
 `[이름](url)`  
 ...  
-(예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)  
+[김준기](https://github.com/june-777/java-racingcar-6/pull/1)  
 
 
 <br> </br>

@@ -20,6 +20,8 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 
 [최승호](https://github.com/zxcev/java-racingcar-practice/pull/1) <br>
 
+[신창혁](https://github.com/Hugh-KR/java-racingcar-6/pull/2)
+
 <br> </br>
 **11월 23일 미션:** [로또](https://github.com/woowacourse-precourse/java-lotto-6)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)

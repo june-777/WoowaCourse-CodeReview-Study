@@ -15,7 +15,7 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 `[이름](url)`  
 ...  
 [김준기](https://github.com/june-777/java-racingcar-6/pull/1)  
-
+[장혁수](https://github.com/woowacourse-precourse/java-racingcar-6/pull/2387)
 
 <br> </br>
 **11월 23일 미션:** [로또](https://github.com/woowacourse-precourse/java-lotto-6)  

@@ -30,6 +30,8 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 
 [김준기](https://github.com/june-777/java-lotto-6/pull/1) <br>
 
+[신창혁](https://github.com/Hugh-KR/java-lotto-6/pull/1) <br>
+
 <br> </br>
 ### 11월 28일 미션: [자판기](https://github.com/woowacourse/java-vendingmachine-precourse)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)

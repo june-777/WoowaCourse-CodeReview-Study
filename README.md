@@ -35,7 +35,7 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 <br> </br>
 ### 11월 28일 미션: [자판기](https://github.com/woowacourse/java-vendingmachine-precourse)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
-
+[장혁수](https://github.com/woowacourse/java-vendingmachine-precourse/pull/187)
 
 
 <br> </br>

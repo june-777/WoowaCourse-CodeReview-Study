@@ -39,6 +39,8 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 
 [김준기](https://github.com/june-777/java-vendingmachine-precourse/pull/1) <br>
 
+[신창혁](https://github.com/Hugh-KR/java-vendingmachine-precourse/pull/1) <br>
+
 
 <br> </br>
 ### 11월 30일 미션: [지하철 노선도 경로 조회](https://github.com/woowacourse/java-subway-path-precourse)  

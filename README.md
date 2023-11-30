@@ -48,6 +48,8 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 
 [최승호](https://github.com/zxcev/java-subway-practice/pull/1) <br>
 
+[장혁수](https://github.com/zangsu/java-subway-path-precourse/pull/1)<br>
+
 
 <br> </br>
 ### 12월 05일 미션: [다리 건너기](https://github.com/bark20/java-bridge)  

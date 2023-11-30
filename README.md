@@ -46,6 +46,7 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 ### 11월 30일 미션: [지하철 노선도 경로 조회](https://github.com/woowacourse/java-subway-path-precourse)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
 
+[최승호](https://github.com/zxcev/java-subway-practice/pull/1) <br>
 
 
 <br> </br>

@@ -51,6 +51,8 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 
 [김준기](https://github.com/june-777/java-subway-path-precourse/pull/1)<br>
 
+[신창혁](https://github.com/Hugh-KR/java-subway-path-precourse/pull/1)<br>
+
 
 
 <br> </br>

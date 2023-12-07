@@ -69,7 +69,7 @@ README.md는 웹 상에서 모두 자유롭게 수정해주세요.
 ### 12월 07일 미션: [페어 매칭](https://github.com/woowacourse/java-pairmatching-precourse)  
 (예시) [김준기](https://github.com/june-777/java-christmas-6-june-777/pull/1)
 
-
+[최승호](https://github.com/zxcev/java-pairmatching-practice/pull/1) <br>
 
 <br> </br>
 ### 12월 12일 미션: [점심 메뉴 추천](https://github.com/70825/java-menu)  
